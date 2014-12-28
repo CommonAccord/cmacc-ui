@@ -1,0 +1,32 @@
+{
+	"globalstrict": true,
+	"node": true,
+	"browser": true,
+	"esnext": true,
+	"bitwise": true,
+	"camelcase": true,
+	"curly": true,
+	"eqeqeq": true,
+	"forin": true,
+	"freeze": true,
+	"immed": true,
+	"latedef": "nofunc",
+	"newcap": true,
+	"noarg": true,
+	"nonbsp": true,
+	"nonew": true,
+	"quotmark": true,
+	"undef": true,
+	"unused": true,
+	"strict": true,
+	"globals": {
+		"angular": false,
+		"describe": false,
+		"it": false,
+		"expect": false,
+		"beforeEach": false,
+		"afterEach": false,
+		"module": false,
+		"inject": false
+	}
+}
